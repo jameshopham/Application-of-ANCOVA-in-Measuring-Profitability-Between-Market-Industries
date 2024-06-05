@@ -1,0 +1,488 @@
+Company_Name,Market_Cap,Industry_Group,Primary_Industry,Sector,P_v_FCP_fixed_values,Earnings_Fixed_Values,True_ROA_Fixed_Values,Debt_Load_Fixed_Values
+Apple Inc. (NasdaqGS:AAPL),Large_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,24.68,0.23,0.15,-0.01
+Microsoft Corporation (NasdaqGS:MSFT),Large_Cap,Software,Systems Software,Information_Technology,36.32,0.32,0.07,-0.13
+NVIDIA Corporation (NasdaqGS:NVDA),Large_Cap,Semiconductors,Semiconductors,Information_Technology,84.36,0.28,0.12,0.18
+Broadcom Inc. (NasdaqGS:AVGO),Large_Cap,Semiconductors,Semiconductors,Information_Technology,15.68,0.29,0.05,0.19
+Oracle Corporation (NYSE:ORCL),Large_Cap,Software,Systems Software,Information_Technology,16.39,0.21,0.05,0.29
+Adobe Inc. (NasdaqGS:ADBE),Large_Cap,Software,Application Software,Information_Technology,24.44,0.29,0.14,0.04
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",Large_Cap,Hardware,Communications Equipment,Information_Technology,17.96,0.19,0.14,-0.38
+"Salesforce, Inc. (NYSE:CRM)",Large_Cap,Software,Application Software,Information_Technology,21.93,0.06,0.06,0.14
+"Advanced Micro Devices, Inc. (NasdaqGS:AMD)",Large_Cap,Semiconductors,Semiconductors,Information_Technology,62.23,0.1,0.07,-0.03
+Texas Instruments Incorporated (NasdaqGS:TXN),Large_Cap,Semiconductors,Semiconductors,Information_Technology,18.52,0.39,0.73,0.21
+Intel Corporation (NasdaqGS:INTC),Large_Cap,Semiconductors,Semiconductors,Information_Technology,16.58,0.21,0.02,0.43
+Intuit Inc. (NasdaqGS:INTU),Large_Cap,Software,Application Software,Information_Technology,21.86,0.2,0.06,0.23
+International Business Machines Corporation (NYSE:IBM),Large_Cap,Software,IT Consulting and Other Services,Information_Technology,10.89,0.08,0.02,0.15
+QUALCOMM Incorporated (NasdaqGS:QCOM),Large_Cap,Semiconductors,Semiconductors,Information_Technology,17.12,0.19,0.04,-0.21
+"Applied Materials, Inc. (NasdaqGS:AMAT)",Large_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,19.58,0.22,0.08,0.01
+"ServiceNow, Inc. (NYSE:NOW)",Large_Cap,Software,Systems Software,Information_Technology,42.39,0.08,0.03,-0.09
+"Analog Devices, Inc. (NasdaqGS:ADI)",Large_Cap,Semiconductors,Semiconductors,Information_Technology,26.78,0.24,0.1,-0.19
+Lam Research Corporation (NasdaqGS:LRCX),Large_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,18.67,0.24,0.02,0.1
+"Micron Technology, Inc. (NasdaqGS:MU)",Large_Cap,Semiconductors,Semiconductors,Information_Technology,75.23,0.2,0.02,-0.28
+"VMware, Inc. (NYSE:VMW)",Large_Cap,Software,Systems Software,Information_Technology,12.04,0.2,0.03,0.19
+"Palo Alto Networks, Inc. (NasdaqGS:PANW)",Large_Cap,Software,Systems Software,Information_Technology,22.34,-0.04,0.05,0.17
+"Synopsys, Inc. (NasdaqGS:SNPS)",Large_Cap,Software,Application Software,Information_Technology,48.28,0.17,0.06,-0.02
+"Cadence Design Systems, Inc. (NasdaqGS:CDNS)",Large_Cap,Software,Application Software,Information_Technology,47.89,0.25,0.16,0.06
+KLA Corporation (NasdaqGS:KLAC),Large_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,13.95,0.29,0.02,0.19
+"Workday, Inc. (NasdaqGS:WDAY)",Large_Cap,Software,Application Software,Information_Technology,32.4,-0.06,0.03,0.01
+"Arista Networks, Inc. (NYSE:ANET)",Large_Cap,Hardware,Communications Equipment,Information_Technology,45.19,0.28,0.14,0
+"Roper Technologies, Inc. (NasdaqGS:ROP)",Large_Cap,Software,Application Software,Information_Technology,33.32,0.21,0.02,0.09
+Dell Technologies Inc. (NYSE:DELL),Large_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,10.96,0.02,0.03,-0.29
+Amphenol Corporation (NYSE:APH),Large_Cap,Hardware,Electronic Components,Information_Technology,27.59,0.14,0.33,0.01
+Snowflake Inc. (NYSE:SNOW),Large_Cap,Software,Internet Services and Infrastructure,Information_Technology,-127.32,-0.88,-0.01,0
+"Motorola Solutions, Inc. (NYSE:MSI)",Large_Cap,Hardware,Communications Equipment,Information_Technology,24.1,0.13,0.13,0.14
+"Fortinet, Inc. (NasdaqGS:FTNT)",Large_Cap,Software,Systems Software,Information_Technology,18.48,0.19,0.22,0.12
+"Marvell Technology, Inc. (NasdaqGS:MRVL)",Large_Cap,Semiconductors,Semiconductors,Information_Technology,26.87,0.01,0.16,0.44
+"Autodesk, Inc. (NasdaqGS:ADSK)",Large_Cap,Software,Application Software,Information_Technology,19.03,0.14,0.11,0.04
+Microchip Technology Incorporated (NasdaqGS:MCHP),Large_Cap,Semiconductors,Semiconductors,Information_Technology,15.98,0.17,0.07,-0.1
+ON Semiconductor Corporation (NasdaqGS:ON),Large_Cap,Semiconductors,Semiconductors,Information_Technology,35.92,0.14,0.08,0.01
+"CrowdStrike Holdings, Inc. (NasdaqGS:CRWD)",Large_Cap,Software,Systems Software,Information_Technology,53.76,-0.18,0.04,0.25
+Cognizant Technology Solutions Corporation (NasdaqGS:CTSH),Large_Cap,Software,IT Consulting and Other Services,Information_Technology,13.12,0.11,0.36,-0.02
+GLOBALFOUNDRIES Inc. (NasdaqGS:GFS),Large_Cap,Semiconductors,Semiconductors,Information_Technology,-78.29,-0.07,-0.02,0.78
+Palantir Technologies Inc. (NYSE:PLTR),Large_Cap,Software,Application Software,Information_Technology,494.58,-0.69,0.08,1.76
+"Datadog, Inc. (NasdaqGS:DDOG)",Large_Cap,Software,Application Software,Information_Technology,47.92,-0.04,0.12,0.38
+"Gartner, Inc. (NYSE:IT)",Large_Cap,Software,IT Consulting and Other Services,Information_Technology,31.18,0.11,0.02,-0.18
+CDW Corporation (NasdaqGS:CDW),Large_Cap,Hardware,Technology Distributors,Information_Technology,17.54,0.04,0.02,0.25
+Corning Incorporated (NYSE:GLW),Large_Cap,Hardware,Electronic Components,Information_Technology,19.55,0.07,0.13,0.37
+HP Inc. (NYSE:HPQ),Large_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,5.78,0.06,0.06,0.05
+"ANSYS, Inc. (NasdaqGS:ANSS)",Large_Cap,Software,Application Software,Information_Technology,28.56,0.26,0.17,0.19
+Splunk Inc. (NasdaqGS:SPLK),Large_Cap,Software,Application Software,Information_Technology,20.05,-0.2,0.03,0.79
+"HubSpot, Inc. (NYSE:HUBS)",Large_Cap,Software,Application Software,Information_Technology,71.58,-0.09,0.04,0.06
+"MongoDB, Inc. (NasdaqGM:MDB)",Large_Cap,Software,Internet Services and Infrastructure,Information_Technology,60.18,-0.31,0.02,1.15
+"Keysight Technologies, Inc. (NYSE:KEYS)",Large_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,20.99,0.16,0.06,-0.05
+"Zscaler, Inc. (NasdaqGS:ZS)",Large_Cap,Software,Systems Software,Information_Technology,20.03,-0.26,0.03,0.59
+Fair Isaac Corporation (NYSE:FICO),Large_Cap,Software,Application Software,Information_Technology,29.42,0.22,0.05,0.37
+Hewlett Packard Enterprise Company (NYSE:HPE),Large_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,23.79,0.04,0.02,-0.37
+"Monolithic Power Systems, Inc. (NasdaqGS:MPWR)",Large_Cap,Semiconductors,Semiconductors,Information_Technology,57.29,0.21,0.07,0
+"Zoom Video Communications, Inc. (NasdaqGS:ZM)",Large_Cap,Software,Application Software,Information_Technology,9.34,0.13,0.06,0.01
+"VeriSign, Inc. (NasdaqGS:VRSN)",Large_Cap,Software,Internet Services and Infrastructure,Information_Technology,33.11,0.52,0.07,-0.35
+Teledyne Technologies Incorporated (NYSE:TDY),Large_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,17,0.13,0.01,0.32
+"Cloudflare, Inc. (NYSE:NET)",Large_Cap,Software,Internet Services and Infrastructure,Information_Technology,89.45,-0.34,0.06,1.39
+"First Solar, Inc. (NasdaqGS:FSLR)",Large_Cap,Semiconductors,Semiconductors,Information_Technology,-48.69,0.06,-0.01,-0.65
+PTC Inc. (NasdaqGS:PTC),Large_Cap,Software,Application Software,Information_Technology,24.68,0.13,0.11,0.32
+"Tyler Technologies, Inc. (NYSE:TYL)",Large_Cap,Software,Application Software,Information_Technology,27.58,0.11,0.02,0.25
+"Akamai Technologies, Inc. (NasdaqGS:AKAM)",Large_Cap,Software,Internet Services and Infrastructure,Information_Technology,12.11,0.15,0.09,0.22
+"Enphase Energy, Inc. (NasdaqGM:ENPH)",Large_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,8.21,0.16,0.07,0.38
+"NetApp, Inc. (NasdaqGS:NTAP)",Large_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,14.3,0.16,0.07,0.03
+"Skyworks Solutions, Inc. (NasdaqGS:SWKS)",Large_Cap,Semiconductors,Semiconductors,Information_Technology,10.23,0.24,0.04,0.19
+"Bentley Systems, Incorporated (NasdaqGS:BSY)",Large_Cap,Software,Application Software,Information_Technology,28.9,0.14,0.47,0.47
+"EPAM Systems, Inc. (NYSE:EPAM)",Large_Cap,Software,IT Consulting and Other Services,Information_Technology,20.82,0.11,0.05,-0.01
+"Teradyne, Inc. (NasdaqGS:TER)",Large_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,26.17,0.21,0.2,-0.16
+Western Digital Corporation (NasdaqGS:WDC),Large_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,-49.67,0,-0.01,2.97
+Jabil Inc. (NYSE:JBL),Mid_Cap,Hardware,Electronic Manufacturing Services,Information_Technology,87.6,-0.42,0.04,0.36
+"Dynatrace, Inc. (NYSE:DT)",Mid_Cap,Software,Application Software,Information_Technology,1.54,-0.14,0.5,1.39
+"Entegris, Inc. (NasdaqGS:ENTG)",Mid_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,6.16,0.03,0.08,0.36
+"Okta, Inc. (NasdaqGS:OKTA)",Mid_Cap,Software,Internet Services and Infrastructure,Information_Technology,12.55,0.01,0.12,0.51
+AppLovin Corporation (NasdaqGS:APP),Mid_Cap,Software,Application Software,Information_Technology,9.14,0.24,0.05,0.16
+"Aspen Technology, Inc. (NasdaqGS:AZPN)",Mid_Cap,Software,Application Software,Information_Technology,22.88,0.16,0.32,0.88
+"Super Micro Computer, Inc. (NasdaqGS:SMCI)",Mid_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,89.65,-0.07,0.01,0.28
+Trimble Inc. (NasdaqGS:TRMB),Mid_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,12.12,0.01,0.16,0.22
+Samsara Inc. (NYSE:IOT),Mid_Cap,Software,Application Software,Information_Technology,29.04,-0.1,0.04,0.09
+Unity Software Inc. (NYSE:U),Mid_Cap,Software,Application Software,Information_Technology,19.86,0.02,0.12,-0.21
+Gen Digital Inc. (NasdaqGS:GEN),Mid_Cap,Software,Systems Software,Information_Technology,4.46,0.1,0.17,3.29
+"Manhattan Associates, Inc. (NasdaqGS:MANH)",Mid_Cap,Software,Application Software,Information_Technology,59.04,0,0.02,0.36
+Zebra Technologies Corporation (NasdaqGS:ZBRA),Mid_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,16.36,-0.35,0.05,0.89
+Lattice Semiconductor Corporation (NasdaqGS:LSCC),Mid_Cap,Semiconductors,Semiconductors,Information_Technology,89.46,-0.09,0.15,0
+"Pure Storage, Inc. (NYSE:PSTG)",Mid_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,24.92,0.14,-0.05,-0.04
+GoDaddy Inc. (NYSE:GDDY),Mid_Cap,Software,Internet Services and Infrastructure,Information_Technology,8.88,0.05,0.24,0.17
+Twilio Inc. (NYSE:TWLO),Mid_Cap,Software,Internet Services and Infrastructure,Information_Technology,24.54,-0.06,0.14,0.43
+"BILL Holdings, Inc. (NYSE:BILL)",Mid_Cap,Software,Application Software,Information_Technology,33.93,0.03,0.02,0.7
+Amdocs Limited (NasdaqGS:DOX),Mid_Cap,Software,IT Consulting and Other Services,Information_Technology,14.25,-0.05,0.62,-0.38
+TD SYNNEX Corporation (NYSE:SNX),Mid_Cap,Hardware,Technology Distributors,Information_Technology,7.79,-0.17,0.07,0.52
+"F5, Inc. (NasdaqGS:FFIV)",Mid_Cap,Hardware,Communications Equipment,Information_Technology,13.82,0.17,0.06,0.17
+"Dropbox, Inc. (NasdaqGS:DBX)",Mid_Cap,Software,Application Software,Information_Technology,9.58,-0.21,0.05,1.58
+UiPath Inc. (NYSE:PATH),Mid_Cap,Software,Systems Software,Information_Technology,31.56,0.02,0,-0.18
+"Qorvo, Inc. (NasdaqGS:QRVO)",Mid_Cap,Semiconductors,Semiconductors,Information_Technology,10.17,0.12,0.08,1.06
+"Procore Technologies, Inc. (NYSE:PCOR)",Mid_Cap,Software,Application Software,Information_Technology,-314.98,0.16,0.16,0.36
+"Juniper Networks, Inc. (NYSE:JNPR)",Mid_Cap,Hardware,Communications Equipment,Information_Technology,20.36,0.12,0.15,0.26
+"Confluent, Inc. (NasdaqGS:CFLT)",Mid_Cap,Software,Application Software,Information_Technology,31.56,0.11,0,0.79
+Ubiquiti Inc. (NYSE:UI),Mid_Cap,Hardware,Communications Equipment,Information_Technology,12.96,-0.05,-0.02,-0.01
+"DocuSign, Inc. (NasdaqGS:DOCU)",Mid_Cap,Software,Application Software,Information_Technology,9.51,0.08,0.18,0.32
+"Klaviyo, Inc. (NYSE:KVYO)",Mid_Cap,Software,Application Software,Information_Technology,31.56,0.25,0.02,0.78
+"Nutanix, Inc. (NasdaqGS:NTNX)",Mid_Cap,Software,Application Software,Information_Technology,38.14,0.11,0.11,-0.52
+National Instruments Corporation (NasdaqGS:NATI),Mid_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,29.33,0,0.03,0.36
+"Dolby Laboratories, Inc. (NYSE:DLB)",Mid_Cap,Software,Systems Software,Information_Technology,23.27,0.16,0.01,0
+Universal Display Corporation (NasdaqGS:OLED),Mid_Cap,Semiconductors,Semiconductors,Information_Technology,39.59,-0.56,0.08,0.4
+CCC Intelligent Solutions Holdings Inc. (NasdaqGS:CCCS),Mid_Cap,Software,Application Software,Information_Technology,73.15,-0.28,0.13,0.45
+Cognex Corporation (NasdaqGS:CGNX),Mid_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,30.9,0.12,0.07,0.34
+"Guidewire Software, Inc. (NYSE:GWRE)",Mid_Cap,Software,Application Software,Information_Technology,46.52,-0.16,0,0
+"Arrow Electronics, Inc. (NYSE:ARW)",Mid_Cap,Hardware,Technology Distributors,Information_Technology,9.15,-0.12,0.02,-0.27
+Ciena Corporation (NYSE:CIEN),Mid_Cap,Hardware,Communications Equipment,Information_Technology,18.96,0,0.78,0.36
+GitLab Inc. (NasdaqGS:GTLB),Mid_Cap,Software,Systems Software,Information_Technology,31.56,0.33,0.09,1.25
+"AppFolio, Inc. (NasdaqGM:APPF)",Mid_Cap,Software,Application Software,Information_Technology,136.21,0.04,0.08,0.72
+"SPS Commerce, Inc. (NasdaqGS:SPSC)",Mid_Cap,Software,Application Software,Information_Technology,56.39,0,0.01,1.45
+"Littelfuse, Inc. (NasdaqGS:LFUS)",Mid_Cap,Hardware,Electronic Components,Information_Technology,13.77,0.12,0.42,0.12
+Onto Innovation Inc. (NYSE:ONTO),Mid_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,41.71,0.02,0.12,0.48
+"New Relic, Inc. (NYSE:NEWR)",Mid_Cap,Software,Application Software,Information_Technology,62.9,0.01,0.01,0
+Informatica Inc. (NYSE:INFA),Mid_Cap,Software,Application Software,Information_Technology,-8.26,0.06,0.09,0.36
+Rambus Inc. (NasdaqGS:RMBS),Mid_Cap,Semiconductors,Semiconductors,Information_Technology,48.54,0.02,0.03,0.03
+Freshworks Inc. (NasdaqGS:FRSH),Mid_Cap,Software,Application Software,Information_Technology,31.56,0.08,0,0.47
+"MKS Instruments, Inc. (NasdaqGS:MKSI)",Mid_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,2.43,0.21,0.05,-0.28
+"Qualys, Inc. (NasdaqGS:QLYS)",Mid_Cap,Software,Systems Software,Information_Technology,24.93,-0.48,0.17,0
+"MACOM Technology Solutions Holdings, Inc. (NasdaqGS:MTSI)",Mid_Cap,Semiconductors,Semiconductors,Information_Technology,73.52,0,0.35,0
+"Amkor Technology, Inc. (NasdaqGS:AMKR)",Mid_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,25.26,0.27,0.01,0.1
+Workiva Inc. (NYSE:WK),Mid_Cap,Software,Application Software,Information_Technology,40.96,-0.21,0.02,-1
+Smartsheet Inc. (NYSE:SMAR),Mid_Cap,Software,Application Software,Information_Technology,404.34,0.04,0,0
+"Insight Enterprises, Inc. (NasdaqGS:NSIT)",Mid_Cap,Hardware,Technology Distributors,Information_Technology,16.97,-0.32,0.23,0
+"Tenable Holdings, Inc. (NasdaqGS:TENB)",Mid_Cap,Software,Systems Software,Information_Technology,25.48,0.1,0.1,0.24
+"Asana, Inc. (NYSE:ASAN)",Small_Cap,Software,Application Software,Information_Technology,44.68,-0.38,0.14,0.32
+"Commvault Systems, Inc. (NasdaqGS:CVLT)",Small_Cap,Software,Systems Software,Information_Technology,20.53,0.09,0.01,0.32
+"N-able, Inc. (NYSE:NABL)",Small_Cap,Software,Systems Software,Information_Technology,3.38,-0.18,-0.03,0.32
+"InterDigital, Inc. (NasdaqGS:IDCC)",Small_Cap,Software,Application Software,Information_Technology,6.92,0.05,0.07,0.32
+"OSI Systems, Inc. (NasdaqGS:OSIS)",Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,20.76,0.06,0.06,0.32
+"Q2 Holdings, Inc. (NYSE:QTWO)",Small_Cap,Software,Application Software,Information_Technology,12.36,-0.15,-0.04,0.32
+"Riot Platforms, Inc. (NasdaqCM:RIOT)",Small_Cap,Software,Application Software,Information_Technology,-2.86,0.08,0.07,0.32
+"AvePoint, Inc. (NasdaqGS:AVPT)",Small_Cap,Software,Application Software,Information_Technology,99.59,0.13,0.02,0.32
+EverCommerce Inc. (NasdaqGS:EVCM),Small_Cap,Software,Application Software,Information_Technology,3.38,0.01,0,10.2
+"Five9, Inc. (NasdaqGM:FIVN)",Small_Cap,Software,Application Software,Information_Technology,15.92,-0.11,0.04,3.96
+Belden Inc. (NYSE:BDC),Small_Cap,Hardware,Electronic Components,Information_Technology,30.34,-0.11,0.03,0.81
+Adeia Inc. (NasdaqGS:ADEA),Small_Cap,Software,Systems Software,Information_Technology,18.2,-1.99,0.01,0.77
+"MaxLinear, Inc. (NasdaqGS:MXL)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,11.94,-0.09,0.3,0.77
+Stratasys Ltd. (NasdaqGS:SSYS),Small_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,-30.16,-0.03,0.07,0.59
+"Amplitude, Inc. (NasdaqCM:AMPL)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.22,0.19,0.45
+"Benchmark Electronics, Inc. (NYSE:BHE)",Small_Cap,Hardware,Electronic Manufacturing Services,Information_Technology,156.61,0.05,0.47,0.41
+Diodes Incorporated (NasdaqGS:DIOD),Small_Cap,Semiconductors,Semiconductors,Information_Technology,25.42,-0.01,0.25,0.23
+"Axcelis Technologies, Inc. (NasdaqGS:ACLS)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,28.28,-0.11,0.03,0
+"Badger Meter, Inc. (NYSE:BMI)",Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,52.63,-0.11,0.22,0
+"PagerDuty, Inc. (NYSE:PD)",Small_Cap,Software,Application Software,Information_Technology,41.27,-0.01,-0.44,0
+Progress Software Corporation (NasdaqGS:PRGS),Small_Cap,Software,Systems Software,Information_Technology,6.67,-0.1,0.07,-0.18
+"PC Connection, Inc. (NasdaqGS:CNXN)",Small_Cap,Hardware,Technology Distributors,Information_Technology,23.22,-0.1,0.04,-0.38
+Xerox Holdings Corporation (NasdaqGS:XRX),Small_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,21.33,0.08,0.05,-0.76
+"A10 Networks, Inc. (NYSE:ATEN)",Small_Cap,Software,Systems Software,Information_Technology,32,-0.49,0.02,-0.8
+Altair Engineering Inc. (NasdaqGS:ALTR),Small_Cap,Software,Application Software,Information_Technology,46.29,-0.11,0.08,-0.89
+"Vishay Intertechnology, Inc. (NYSE:VSH)",Small_Cap,Hardware,Electronic Components,Information_Technology,32.93,-0.2,0.04,-5.88
+Jamf Holding Corp. (NasdaqGS:JAMF),Small_Cap,Software,Application Software,Information_Technology,14.86,0.03,0.05,0.68
+"Avid Technology, Inc. (NasdaqGS:AVID)",Small_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,54.5,-0.03,0.07,-1.15
+"Extreme Networks, Inc. (NasdaqGS:EXTR)",Small_Cap,Hardware,Communications Equipment,Information_Technology,24.17,-0.37,0.25,-0.48
+PAR Technology Corporation (NYSE:PAR),Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,25.98,0.12,0.07,0
+"Impinj, Inc. (NasdaqGS:PI)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,130.75,0.04,0.03,0.41
+Credo Technology Group Holding Ltd (NasdaqGS:CRDO),Small_Cap,Semiconductors,Semiconductors,Information_Technology,3.38,0.02,-0.06,2.22
+Novanta Inc. (NasdaqGS:NOVT),Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,35.3,-0.11,0.15,2.55
+Appian Corporation (NasdaqGM:APPN),Small_Cap,Software,Systems Software,Information_Technology,-230.19,0.05,0.56,-0.92
+Infinera Corporation (NasdaqGS:INFN),Small_Cap,Hardware,Communications Equipment,Information_Technology,-197.74,-0.15,0.04,0.32
+"Ambarella, Inc. (NasdaqGS:AMBA)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,70.9,-0.01,0.02,0.5
+JFrog Ltd. (NasdaqGS:FROG),Small_Cap,Software,Systems Software,Information_Technology,92.63,0.09,0,0
+Aehr Test Systems (NasdaqCM:AEHR),Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,-475.51,-0.09,0.01,0.26
+"Mirion Technologies, Inc. (NYSE:MIR)",Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,3.38,0.08,-0.08,-0.6
+"Instructure Holdings, Inc. (NYSE:INST)",Small_Cap,Software,Application Software,Information_Technology,32.68,0.02,0.08,0
+Knowles Corporation (NYSE:KN),Small_Cap,Hardware,Electronic Components,Information_Technology,40.19,-0.11,0.07,1.04
+"Alkami Technology, Inc. (NasdaqGS:ALKT)",Small_Cap,Software,Application Software,Information_Technology,3.38,0.1,0.06,0.32
+"TTM Technologies, Inc. (NasdaqGS:TTMI)",Small_Cap,Hardware,Electronic Manufacturing Services,Information_Technology,14.23,-0.24,0.07,0.2
+SolarWinds Corporation (NYSE:SWI),Small_Cap,Software,Systems Software,Information_Technology,-24.37,0.04,0.12,-0.75
+"Avnet, Inc. (NasdaqGS:AVT)",Small_Cap,Hardware,Technology Distributors,Information_Technology,16.44,-0.11,0,-0.07
+"Photronics, Inc. (NasdaqGS:PLAB)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,3.38,0.13,-0.04,0.5
+Veeco Instruments Inc. (NasdaqGS:VECO),Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,102.8,-0.24,0.29,0.32
+Pegasystems Inc. (NasdaqGS:PEGA),Small_Cap,Software,Application Software,Information_Technology,26.51,-0.12,0,1.57
+Verint Systems Inc. (NasdaqGS:VRNT),Small_Cap,Software,Application Software,Information_Technology,20.01,0.02,0.13,-0.26
+Silicon Laboratories Inc. (NasdaqGS:SLAB),Small_Cap,Semiconductors,Semiconductors,Information_Technology,-89.4,-0.3,0,0.63
+"Vertex, Inc. (NasdaqGM:VERX)",Small_Cap,Software,Application Software,Information_Technology,58.37,0.09,0.04,0.32
+"nCino, Inc. (NasdaqGS:NCNO)",Small_Cap,Software,Application Software,Information_Technology,-170.32,-0.18,0.01,0
+SiTime Corporation (NasdaqGM:SITM),Small_Cap,Semiconductors,Semiconductors,Information_Technology,-1158.68,-0.02,0.07,0.94
+"ACM Research, Inc. (NasdaqGM:ACMR)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,-8.8,-0.21,0.3,1.13
+"E2open Parent Holdings, Inc. (NYSE:ETWO)",Small_Cap,Software,Application Software,Information_Technology,3.38,0.07,0.14,0.34
+"PROS Holdings, Inc. (NYSE:PRO)",Small_Cap,Software,Application Software,Information_Technology,164.83,-0.6,0.01,-0.02
+"PDF Solutions, Inc. (NasdaqGS:PDFS)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,81.9,0.08,0.07,-6.19
+"Alarm.com Holdings, Inc. (NasdaqGS:ALRM)",Small_Cap,Software,Application Software,Information_Technology,15.79,0.09,-0.19,0.91
+"LiveRamp Holdings, Inc. (NYSE:RAMP)",Small_Cap,Software,Application Software,Information_Technology,-13.71,0.02,0.02,7.73
+"Intapp, Inc. (NasdaqGS:INTA)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.01,0.14,0.03
+Lumentum Holdings Inc. (NasdaqGS:LITE),Small_Cap,Hardware,Communications Equipment,Information_Technology,3.99,0.11,0.07,0.35
+"Aurora Innovation, Inc. (NasdaqGS:AUR)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.11,0.07,-0.06
+"indie Semiconductor, Inc. (NasdaqCM:INDI)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,-7.33,-0.17,0.09,0.66
+"IonQ, Inc. (NYSE:IONQ)",Small_Cap,Hardware,"Technology Hardware, Storage and Peripherals",Information_Technology,3.38,-0.21,0.05,0.3
+"Sprinklr, Inc. (NYSE:CXM)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.11,0.07,0.04
+Viavi Solutions Inc. (NasdaqGS:VIAV),Small_Cap,Hardware,Communications Equipment,Information_Technology,39.94,0.05,0.07,-0.47
+"RingCentral, Inc. (NYSE:RNG)",Small_Cap,Software,Application Software,Information_Technology,7.49,0.03,-0.02,0.2
+"Advanced Energy Industries, Inc. (NasdaqGS:AEIS)",Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,12.6,0.07,0.02,0.51
+Sanmina Corporation (NasdaqGS:SANM),Small_Cap,Hardware,Electronic Manufacturing Services,Information_Technology,17.38,-0.2,0.18,0.8
+"Ultra Clean Holdings, Inc. (NasdaqGS:UCTT)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,8,0.19,0.18,-0.45
+"Thoughtworks Holding, Inc. (NasdaqGS:TWKS)",Small_Cap,Software,IT Consulting and Other Services,Information_Technology,3.38,0.03,-0.4,0.17
+Coherent Corp. (NYSE:COHR),Small_Cap,Hardware,Electronic Components,Information_Technology,3.55,-0.11,0.02,0.42
+Rogers Corporation (NYSE:ROG),Small_Cap,Hardware,Electronic Components,Information_Technology,50.04,0.14,0.07,0.54
+"Box, Inc. (NYSE:BOX)",Small_Cap,Software,Application Software,Information_Technology,13.5,-0.11,0.06,0.32
+"Squarespace, Inc. (NYSE:SQSP)",Small_Cap,Software,Internet Services and Infrastructure,Information_Technology,3.38,-0.11,0.07,0.32
+MicroStrategy Incorporated (NasdaqGS:MSTR),Small_Cap,Software,Application Software,Information_Technology,10.98,-0.11,0,-0.4
+Teradata Corporation (NYSE:TDC),Small_Cap,Software,Systems Software,Information_Technology,27.23,-0.11,0.07,0
+"Envestnet, Inc. (NYSE:ENV)",Small_Cap,Software,Application Software,Information_Technology,8.56,-0.05,-0.2,0.6
+"Model N, Inc. (NYSE:MODN)",Small_Cap,Software,Application Software,Information_Technology,16.18,-0.05,0.33,-0.02
+"Braze, Inc. (NasdaqGS:BRZE)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.11,0.07,0.54
+"Zuora, Inc. (NYSE:ZUO)",Small_Cap,Software,Systems Software,Information_Technology,53.24,0.02,0.07,-0.34
+"Clearwater Analytics Holdings, Inc. (NYSE:CWAN)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.11,0.07,0.83
+"Semrush Holdings, Inc. (NYSE:SEMR)",Small_Cap,Software,Application Software,Information_Technology,3.38,-3.77,0.07,-0.06
+"Wolfspeed, Inc. (NYSE:WOLF)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,18.54,-0.11,0.01,-1.73
+"Alteryx, Inc. (NYSE:AYX)",Small_Cap,Software,Application Software,Information_Technology,6.3,0.1,-0.06,-0.11
+"Cohu, Inc. (NasdaqGS:COHU)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,17.99,-0.22,0.1,0.32
+Digi International Inc. (NasdaqGS:DGII),Small_Cap,Hardware,Communications Equipment,Information_Technology,12.05,-0.09,0.04,0.32
+"Calix, Inc. (NYSE:CALX)",Small_Cap,Hardware,Communications Equipment,Information_Technology,219.26,-0.03,0.01,3.26
+Plexus Corp. (NasdaqGS:PLXS),Small_Cap,Hardware,Electronic Manufacturing Services,Information_Technology,38.74,0.15,0.09,0.91
+NCR Corporation (NYSE:NCR),Small_Cap,Software,Application Software,Information_Technology,3.68,-0.11,0.03,0.88
+"Marathon Digital Holdings, Inc. (NasdaqCM:MARA)",Small_Cap,Software,Application Software,Information_Technology,-2.78,0.04,0.36,0.34
+Vontier Corporation (NYSE:VNT),Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,5.37,-0.11,0.08,0.21
+"Ichor Holdings, Ltd. (NasdaqGS:ICHR)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,18.4,-0.3,0.07,-0.1
+Navitas Semiconductor Corporation (NasdaqGM:NVTS),Small_Cap,Semiconductors,Semiconductors,Information_Technology,21.08,-0.22,-0.04,-0.31
+"MeridianLink, Inc. (NYSE:MLNK)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.03,-0.01,-12.14
+"Everbridge, Inc. (NasdaqGM:EVBG)",Small_Cap,Software,Application Software,Information_Technology,10.39,0,0.24,-1.23
+ePlus inc. (NasdaqGS:PLUS),Small_Cap,Hardware,Technology Distributors,Information_Technology,31.37,0,0.04,3.85
+"Crane NXT, Co. (NYSE:CXT)",Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,3.38,-0.01,0.04,-0.68
+DXC Technology Company (NYSE:DXC),Small_Cap,Software,IT Consulting and Other Services,Information_Technology,32.55,-0.11,0.01,0.45
+"Arlo Technologies, Inc. (NYSE:ARLO)",Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,-37.54,0,0.07,0.32
+"Power Integrations, Inc. (NasdaqGS:POWI)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,31.46,-0.11,0.15,0.84
+Zeta Global Holdings Corp. (NYSE:ZETA),Small_Cap,Software,Application Software,Information_Technology,3.38,-0.22,0.07,0.19
+IPG Photonics Corporation (NasdaqGS:IPGP),Small_Cap,Hardware,Electronic Manufacturing Services,Information_Technology,29.31,-0.11,0.05,0
+"Clear Secure, Inc. (NYSE:YOU)",Small_Cap,Software,Application Software,Information_Technology,3.38,0.02,0.25,2.03
+"C3.ai, Inc. (NYSE:AI)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.34,0.07,0.15
+"ACI Worldwide, Inc. (NasdaqGS:ACIW)",Small_Cap,Software,Application Software,Information_Technology,9.54,0.05,0,0.32
+"Kyndryl Holdings, Inc. (NYSE:KD)",Small_Cap,Software,IT Consulting and Other Services,Information_Technology,6.67,-0.09,0.16,4.07
+"DoubleVerify Holdings, Inc. (NYSE:DV)",Small_Cap,Software,Application Software,Information_Technology,59.77,-0.11,0.22,3.9
+"Itron, Inc. (NasdaqGS:ITRI)",Small_Cap,Hardware,Electronic Equipment and Instruments,Information_Technology,74.43,0.08,0.06,0.32
+"Viasat, Inc. (NasdaqGS:VSAT)",Small_Cap,Hardware,Communications Equipment,Information_Technology,-61.24,0.03,0.11,0.56
+"EngageSmart, Inc. (NYSE:ESMT)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.83,0.05,0.47
+"Agilysys, Inc. (NasdaqGS:AGYS)",Small_Cap,Software,Application Software,Information_Technology,70.06,0.11,0.09,-3.44
+"SentinelOne, Inc. (NYSE:S)",Small_Cap,Software,Systems Software,Information_Technology,3.38,-0.11,0.07,0.32
+"BlackLine, Inc. (NasdaqGS:BL)",Small_Cap,Software,Application Software,Information_Technology,8.22,-0.26,0.05,4.56
+"Perficient, Inc. (NasdaqGS:PRFT)",Small_Cap,Software,IT Consulting and Other Services,Information_Technology,11.84,-0.31,0.02,0.32
+Semtech Corporation (NasdaqGS:SMTC),Small_Cap,Semiconductors,Semiconductors,Information_Technology,2.93,-0.07,0.05,0
+"NetScout Systems, Inc. (NasdaqGS:NTCT)",Small_Cap,Hardware,Communications Equipment,Information_Technology,23.73,0.15,0.07,1.84
+"Sprout Social, Inc. (NasdaqCM:SPT)",Small_Cap,Software,Application Software,Information_Technology,-231.08,0.02,0.03,-0.59
+CTS Corporation (NYSE:CTS),Small_Cap,Hardware,Electronic Manufacturing Services,Information_Technology,16.62,0.03,-0.29,1.04
+"DigitalOcean Holdings, Inc. (NYSE:DOCN)",Small_Cap,Software,Internet Services and Infrastructure,Information_Technology,8.9,0.1,0.07,0.32
+"Grid Dynamics Holdings, Inc. (NasdaqCM:GDYN)",Small_Cap,Software,IT Consulting and Other Services,Information_Technology,56.02,-0.25,0.03,0.2
+"PowerSchool Holdings, Inc. (NYSE:PWSC)",Small_Cap,Software,Application Software,Information_Technology,3.38,-0.24,0.02,0.32
+"Cirrus Logic, Inc. (NasdaqGS:CRUS)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,13.26,-0.11,0.1,-0.07
+Synaptics Incorporated (NasdaqGS:SYNA),Small_Cap,Semiconductors,Semiconductors,Information_Technology,9.85,-0.04,1.05,0.32
+"SMART Global Holdings, Inc. (NasdaqGS:SGH)",Small_Cap,Semiconductors,Semiconductors,Information_Technology,6.85,0.01,0.02,0.32
+"Varonis Systems, Inc. (NasdaqGS:VRNS)",Small_Cap,Software,Systems Software,Information_Technology,58.98,-0.05,0.07,0
+"Rapid7, Inc. (NasdaqGM:RPD)",Small_Cap,Software,Systems Software,Information_Technology,9.48,-0.08,0.07,0
+Harmonic Inc. (NasdaqGS:HLIT),Small_Cap,Hardware,Communications Equipment,Information_Technology,-217.94,-0.21,0.37,0.97
+Olo Inc. (NYSE:OLO),Small_Cap,Software,Application Software,Information_Technology,47.06,-0.18,0,0.57
+"Fastly, Inc. (NYSE:FSLY)",Small_Cap,Software,Internet Services and Infrastructure,Information_Technology,227.62,0.13,0.05,-0.58
+"FormFactor, Inc. (NasdaqGS:FORM)",Small_Cap,Semiconductors,Semiconductor Materials and Equipment,Information_Technology,44.72,0.23,0.01,0.32
+"Blackbaud, Inc. (NasdaqGS:BLKB)",Small_Cap,Software,Application Software,Information_Technology,15.18,-0.11,0.05,-0.98
+Eli Lilly and Company (NYSE:LLY),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,67.17,0.20796,0.0716,0.2
+UnitedHealth Group Incorporated (NYSE:UNH),Large_Cap,Health_Care_Equipment_and_Services,Managed Health Care,Healthcare,12.63,0.0581,0.0131,0.23
+Johnson & Johnson (NYSE:JNJ),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,16.06,0.17591,0.0926,0.16
+"Merck & Co., Inc. (NYSE:MRK)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,18.49,0.15908,0.2224,0.16
+AbbVie Inc. (NYSE:ABBV),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,11.17,0.17732,0.0704,0
+Thermo Fisher Scientific Inc. (NYSE:TMO),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,17.85,0.15721,0.0198,0.26
+Pfizer Inc. (NYSE:PFE),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,6.46,0.24693,0.0778,0.12
+Danaher Corporation (NYSE:DHR),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,17.53,0.18481,0.0444,0.25
+Abbott Laboratories (NYSE:ABT),Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,33.12,0.13021,0.0479,-0.42
+Amgen Inc. (NasdaqGS:AMGN),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,8.74,0.28064,0.0119,0.37
+Bristol-Myers Squibb Company (NYSE:BMY),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,8.31,0.09935,0.0924,0.05
+"Elevance Health, Inc. (NYSE:ELV)",Large_Cap,Health_Care_Equipment_and_Services,Managed Health Care,Healthcare,9.03,0.03961,0.0074,0.13
+Stryker Corporation (NYSE:SYK),Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,30.93,0.14437,0.0595,0.2
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,61.05,0.25075,0.1256,0
+"Gilead Sciences, Inc. (NasdaqGS:GILD)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,11.96,0.17782,0.091,-0.26
+Vertex Pharmaceuticals Incorporated (NasdaqGS:VRTX),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,17.55,0.37643,0.0347,-0.02
+"Regeneron Pharmaceuticals, Inc. (NasdaqGS:REGN)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,13.29,0.38044,0.0085,0.09
+CVS Health Corporation (NYSE:CVS),Large_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,4.05,0.01651,0.0114,0.22
+Zoetis Inc. (NYSE:ZTS),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,33.67,0.25191,0.1267,0.25
+The Cigna Group (NYSE:CI),Large_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,4.05,0.03818,0.0052,0.16
+"Becton, Dickinson and Company (NYSE:BDX)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,37.02,0.05679,0.0306,-0.24
+"HCA Healthcare, Inc. (NYSE:HCA)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,10.93,0.08561,0.0131,0.13
+Boston Scientific Corporation (NYSE:BSX),Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,42.43,0.12843,0.1263,0.33
+Humana Inc. (NYSE:HUM),Large_Cap,Health_Care_Equipment_and_Services,Managed Health Care,Healthcare,8.52,0.03476,0.0045,0.1
+McKesson Corporation (NYSE:MCK),Large_Cap,Health_Care_Equipment_and_Services,Health Care Distributors,Healthcare,11.84,0.0036,0.0095,-0.08
+Edwards Lifesciences Corporation (NYSE:EW),Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,40.29,0.23992,0.1947,-0.09
+"Moderna, Inc. (NasdaqGS:MRNA)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,1.06,0.34055,0.0104,-0.03
+"IDEXX Laboratories, Inc. (NasdaqGS:IDXX)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,65.07,0.20278,0.0535,-0.1
+IQVIA Holdings Inc. (NYSE:IQV),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,14.42,0.05025,0.1322,0.32
+"DexCom, Inc. (NasdaqGS:DXCM)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,24.31,0.1021,0.0702,0.7
+Biogen Inc. (NasdaqGS:BIIB),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,12.28,0.28113,0.0115,-0.04
+Seagen Inc. (NasdaqGS:SGEN),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-84.42,-0.19044,-0.032,0
+"Agilent Technologies, Inc. (NYSE:A)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,22.56,0.15825,0.1514,0.09
+Centene Corporation (NYSE:CNC),Large_Cap,Health_Care_Equipment_and_Services,Managed Health Care,Healthcare,4.96,0.01549,0.0352,0.32
+Veeva Systems Inc. (NYSE:VEEV),Large_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,30.3,0.2357,0.1042,0
+"West Pharmaceutical Services, Inc. (NYSE:WST)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,65.66,0.17515,0.0988,-0.02
+"Align Technology, Inc. (NasdaqGS:ALGN)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,30.31,0.21879,0.0414,-0.01
+Mettler-Toledo International Inc. (NYSE:MTD),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,22.63,0.19882,0.0277,0.24
+"Illumina, Inc. (NasdaqGS:ILMN)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,20.33,-0.21187,0.0581,0.4
+"Zimmer Biomet Holdings, Inc. (NYSE:ZBH)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,121.48,0.04562,0.0223,-3.59
+ResMed Inc. (NYSE:RMD),Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,27.32,0.1837,0.0393,0.05
+"Alnylam Pharmaceuticals, Inc. (NasdaqGS:ALNY)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-9.05,-1.50073,-0.1025,-0.35
+"Cardinal Health, Inc. (NYSE:CAH)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Distributors,Healthcare,13.1,-0.00216,0.015,-0.68
+Baxter International Inc. (NYSE:BAX),Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,5.4,-0.00641,0.026,0.61
+Laboratory Corporation of America Holdings (NYSE:LH),Large_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,12.09,0.09247,0.0222,-0.16
+"Molina Healthcare, Inc. (NYSE:MOH)",Large_Cap,Health_Care_Equipment_and_Services,Managed Health Care,Healthcare,13.2,0.03051,0.0041,0.04
+"Hologic, Inc. (NasdaqGS:HOLX)",Large_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,13.67,0.17857,0.0723,-0.12
+BioMarin Pharmaceutical Inc. (NasdaqGS:BMRN),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-559.24,0.07925,-0.003,1.4
+Waters Corporation (NYSE:WAT),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,20.15,0.22877,0.0251,0.23
+Quest Diagnostics Incorporated (NYSE:DGX),Large_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,9.2,0.11664,0.0822,0.06
+"Avantor, Inc. (NYSE:AVTR)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,88.71,-0.00959,0.0462,-1.02
+Exact Sciences Corporation (NasdaqCM:EXAS),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,24.44,-0.33894,0.0327,2
+Incyte Corporation (NasdaqGS:INCY),Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,19.9,0.11453,0.0444,0
+"Revvity, Inc. (NYSE:RVTY)",Large_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,14.95,0.15226,0.0175,0.39
+Viatris Inc. (NasdaqGS:VTRS),Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,23.1,0.02,0.04,-2.8
+Insulet Corporation (NasdaqGS:PODD),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-221.62,0.02,-0.01,-1.15
+Bio-Techne Corporation (NasdaqGS:TECH),Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,35.49,0.21,0.24,0.01
+"Bio-Rad Laboratories, Inc. (NYSE:BIO)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,21.87,0.38,0,0.3
+"Sarepta Therapeutics, Inc. (NasdaqGS:SRPT)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-27.33,-1.01,-0.02,-0.88
+United Therapeutics Corporation (NasdaqGS:UTHR),Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,15.95,0.29,0.03,0.17
+"Neurocrine Biosciences, Inc. (NasdaqGS:NBIX)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,38,0.13,0.05,-0.58
+"Charles River Laboratories International, Inc. (NYSE:CRL)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,12.32,0.11,0.02,0.37
+Teleflex Incorporated (NYSE:TFX),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,33.3,0.14,0.02,-0.47
+"Henry Schein, Inc. (NasdaqGS:HSIC)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Distributors,Healthcare,13.41,0.05,0.03,0.02
+"Penumbra, Inc. (NYSE:PEN)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-277.82,0.02,-0.02,0.09
+Bruker Corporation (NasdaqGS:BRKR),Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,23.72,0.1,0.06,0.4
+Repligen Corporation (NasdaqGS:RGEN),Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,49.92,0.18,0.06,0.33
+DaVita Inc. (NYSE:DVA),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,6.79,0.05,0.01,-0.19
+"Universal Health Services, Inc. (NYSE:UHS)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,9.87,0.06,0.01,0.17
+"Catalent, Inc. (NYSE:CTLT)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,21.59,0.06,0.01,1.3
+DENTSPLY SIRONA Inc. (NasdaqGS:XRAY),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,14.64,-0.1,0.09,0.16
+"Medpace Holdings, Inc. (NasdaqGS:MEDP)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,22.65,0.14,0.06,-0.32
+"Shockwave Medical, Inc. (NasdaqGS:SWAV)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-51.14,-0.33,-0.02,-0.65
+Chemed Corporation (NYSE:CHE),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,26.33,0.12,0.04,-0.09
+Tenet Healthcare Corporation (NYSE:THC),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,8.63,0.02,0,-0.35
+"Exelixis, Inc. (NasdaqGS:EXEL)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,13.35,0.22,0.35,0
+"Acadia Healthcare Company, Inc. (NasdaqGS:ACHC)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,-32.27,0.07,-0.01,2.01
+Encompass Health Corporation (NYSE:EHC),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,24.3,0.07,0.02,0.03
+R1 RCM Inc. (NasdaqGS:RCM),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,14.84,-0.07,0.5,0.87
+"Karuna Therapeutics, Inc. (NasdaqGM:KRTX)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-3.48,-17.63,-0.01,-2.82
+"Natera, Inc. (NasdaqGS:NTRA)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-13.45,-0.66,-0.13,-0.22
+"Inspire Medical Systems, Inc. (NYSE:INSP)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-57.07,-0.19,-0.07,0.22
+Masimo Corporation (NasdaqGS:MASI),Mid_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,9.66,0.13,0.02,0.58
+Elanco Animal Health Incorporated (NYSE:ELAN),Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,3.94,-0.04,0.07,0.87
+"HealthEquity, Inc. (NasdaqGS:HQY)",Mid_Cap,Health_Care_Equipment_and_Services,Managed Health Care,Healthcare,10.99,0.02,0.1,0.55
+"Ionis Pharmaceuticals, Inc. (NasdaqGS:IONS)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,58.06,-0.11,0.01,0.72
+"Halozyme Therapeutics, Inc. (NasdaqGS:HALO)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,4.81,0.31,0.16,0.67
+"10x Genomics, Inc. (NasdaqGS:TXG)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,-34.77,-0.62,-0.16,-0.07
+"Globus Medical, Inc. (NYSE:GMED)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,36.87,0.19,0.21,0
+"The Ensign Group, Inc. (NasdaqGS:ENSG)",Mid_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,39.14,0.06,0.03,-0.02
+"Intra-Cellular Therapies, Inc. (NasdaqGS:ITCI)",Mid_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,-3.48,-2.22,-0.8,-0.02
+QuidelOrtho Corporation (NasdaqGS:QDEL),Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,5.09,0.24,0.02,-0.15
+Neogen Corporation (NasdaqGS:NEOG),Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,82.19,0.08,0.09,-0.89
+"BridgeBio Pharma, Inc. (NasdaqGS:BBIO)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-13.75,-0.15,-1.95
+"Apellis Pharmaceuticals, Inc. (NasdaqGS:APLS)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-5.4,-0.13,-0.39
+"Vaxcyte, Inc. (NasdaqGS:PCVX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-0.1,0.01
+ACADIA Pharmaceuticals Inc. (NasdaqGS:ACAD),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-18.57,-0.52,-0.75,0
+"Doximity, Inc. (NYSE:DOCS)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,23.88,0.19,0.41,0
+"Lantheus Holdings, Inc. (NasdaqGM:LNTH)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,25.84,0.02,0.05,0.78
+Sotera Health Company (NasdaqGS:SHC),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,50.43,-0.08,0.03,0.61
+"Guardant Health, Inc. (NasdaqGS:GH)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,-42.39,-1.16,0,-6.58
+Haemonetics Corporation (NYSE:HAE),Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,21.42,0.08,0.06,0.42
+"Surgery Partners, Inc. (NasdaqGS:SGRY)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,50.31,-0.07,0.01,-0.95
+"ImmunoGen, Inc. (NasdaqGS:IMGN)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-11.34,-1.45,-1.04,-0.06
+"Merit Medical Systems, Inc. (NasdaqGS:MMSI)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,47.83,0.04,0.06,0.04
+"Inari Medical, Inc. (NasdaqGS:NARI)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-49.27,-0.09,-0.06,-0.4
+CorVel Corporation (NasdaqGS:CRVL),Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,51.15,0.09,0.21,0
+"Amicus Therapeutics, Inc. (NasdaqGM:FOLD)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-9.55,-1.22,-1.09,-0.42
+"Teladoc Health, Inc. (NYSE:TDOC)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,5.05,-1.89,0.14,0.73
+"Revolution Medicines, Inc. (NasdaqGS:RVMD)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-108.39,-6.2,-0.2,0
+"Axsome Therapeutics, Inc. (NasdaqGM:AXSM)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,-16.18,-3.64,-0.17,-0.46
+Select Medical Holdings Corporation (NYSE:SEM),Small_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,5.2,0.04,0.06,0.34
+Glaukos Corporation (NYSE:GKOS),Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,271.55,-0.25,0.01,4.11
+"Progyny, Inc. (NasdaqGS:PGNY)",Small_Cap,Health_Care_Equipment_and_Services,Managed Health Care,Healthcare,123.22,0.01,0.08,-0.4
+"Krystal Biotech, Inc. (NasdaqGM:KRYS)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-0.05,-0.02
+Integra LifeSciences Holdings Corporation (NasdaqGS:IART),Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,31.67,0.08,0.02,-0.91
+"Intellia Therapeutics, Inc. (NasdaqGM:NTLA)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-12.22,-5.44,-0.14,0
+"Cytokinetics, Incorporated (NasdaqGS:CYTK)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-166.44,-5.04,-0.07,-2.78
+"AMN Healthcare Services, Inc. (NYSE:AMN)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,4.5,0.07,0.08,0.27
+"ICU Medical, Inc. (NasdaqGS:ICUI)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,7.28,0.02,0.01,0.87
+CONMED Corporation (NYSE:CNMD),Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,16.13,0.02,0.03,0.67
+"Madrigal Pharmaceuticals, Inc. (NasdaqGS:MDGL)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-0.07,-0.08
+"Azenta, Inc. (NasdaqGS:AZTA)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,-52.3,-0.03,-0.01,0.04
+Corcept Therapeutics Incorporated (NasdaqCM:CORT),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,14.99,0.25,1.34,0
+"Patterson Companies, Inc. (NasdaqGS:PDCO)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Distributors,Healthcare,-3.68,0.01,-0.1,0.13
+"iRhythm Technologies, Inc. (NasdaqGS:IRTC)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-31.31,-0.26,-0.22,-0.01
+Denali Therapeutics Inc. (NasdaqGS:DNLI),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-23.64,-0.97,-0.03,0
+Insmed Incorporated (NasdaqGS:INSM),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-8.84,-2.74,-0.04,-4.49
+Blueprint Medicines Corporation (NasdaqGS:BPMC),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-6.72,-1.4,-0.04,-0.22
+Enovis Corporation (NYSE:ENOV),Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,45.15,-0.02,0,0.09
+"Amedisys, Inc. (NasdaqGS:AMED)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,11.26,0.06,0.08,0.19
+Indivior PLC (LSE:INDV),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,49.59,0.06,0.02,-1.04
+"PTC Therapeutics, Inc. (NasdaqGS:PTCT)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-8.36,-0.87,-0.07,-0.95
+"Arrowhead Pharmaceuticals, Inc. (NasdaqGS:ARWR)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-9.41,-0.63,-0.05,0.01
+Prestige Consumer Healthcare Inc. (NYSE:PBH),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,34.98,0.05,0.08,-1.82
+"Privia Health Group, Inc. (NasdaqGS:PRVA)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,56.92,-0.02,0.31,-0.15
+"Axonics, Inc. (NasdaqGS:AXNX)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-1.78,-0.68,-0.13,-0.02
+"Evolent Health, Inc. (NYSE:EVH)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,-32.86,-0.15,-0.16,-2.52
+Integer Holdings Corporation (NYSE:ITGR),Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-94.56,0.06,0,4.86
+Ultragenyx Pharmaceutical Inc. (NasdaqGS:RARE),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-2.18,-1.81,-0.24,0
+"Akero Therapeutics, Inc. (NasdaqGS:AKRO)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-0.12,0
+"Morphic Holding, Inc. (NasdaqGM:MORF)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,17.61,-5.4,0.02,-0.01
+"Omnicell, Inc. (NasdaqGS:OMCL)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,8.67,0.03,0.03,0.31
+"Amphastar Pharmaceuticals, Inc. (NasdaqGS:AMPH)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,14.04,0.11,0.04,0.64
+"Premier, Inc. (NasdaqGS:PINC)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,8.97,0.11,0.18,-0.2
+"Certara, Inc. (NasdaqGS:CERT)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,34.89,-0.05,0.37,-0.21
+"Mirati Therapeutics, Inc. (NasdaqGS:MRTX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-9.04,-20.71,-0.17,0
+"Schrödinger, Inc. (NasdaqGS:SDGR)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,-38.71,-0.56,-0.08,0
+"Pacific Biosciences of California, Inc. (NasdaqGS:PACB)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,154.3,-1.5,0.01,11.89
+"GoodRx Holdings, Inc. (NasdaqGS:GDRX)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,4.92,-0.08,0.22,0.7
+"AtriCure, Inc. (NasdaqGM:ATRC)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-75.52,-0.09,-0.21,-0.34
+"RadNet, Inc. (NasdaqGM:RDNT)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,17.26,0.01,0.1,0.43
+"Curaleaf Holdings, Inc. (CNSX:CURA)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,-23.48,-0.26,-0.26,-2.42
+"TransMedics Group, Inc. (NasdaqGM:TMDX)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,31.52,-1.83,0.01,2.99
+STAAR Surgical Company (NasdaqGM:STAA),Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,91.69,0.09,0.16,-0.12
+"Harmony Biosciences Holdings, Inc. (NasdaqGM:HRMY)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,-16.18,-1.16,0.02,0.9
+Dynavax Technologies Corporation (NasdaqGS:DVAX),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,5.38,-0.16,0.04,1.2
+"Veracyte, Inc. (NasdaqGM:VCYT)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-60.68,-0.2,-0.19,0.38
+Beam Therapeutics Inc. (NasdaqGS:BEAM),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-27.11,-0.08,0
+"NeoGenomics, Inc. (NasdaqCM:NEO)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,40.98,-0.09,0.04,2.3
+"Alphatec Holdings, Inc. (NasdaqGS:ATEC)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-38.24,-0.55,-0.08,-3.45
+"Apollo Medical Holdings, Inc. (NasdaqCM:AMEH)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,12.13,0.04,0.05,0.48
+"Tandem Diabetes Care, Inc. (NasdaqGM:TNDM)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,10.93,-0.16,0.03,0.67
+"SpringWorks Therapeutics, Inc. (NasdaqGS:SWTX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-8.95,-0.18
+"Vir Biotechnology, Inc. (NasdaqGS:VIR)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-4.4,-0.68,-0.01,0
+"Pacira BioSciences, Inc. (NasdaqGS:PCRX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,17.3,0.06,0.01,-0.37
+"Arcellx, Inc. (NasdaqGS:ACLX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-603.18,-0.07,0
+"Supernus Pharmaceuticals, Inc. (NasdaqGM:SUPN)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,13.53,0.16,0.04,-0.43
+"Arcus Biosciences, Inc. (NYSE:RCUS)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-7.74,-1.24,-0.01,0
+"IDEAYA Biosciences, Inc. (NasdaqGS:IDYA)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-14.23,-0.06,0
+"Revance Therapeutics, Inc. (NasdaqGM:RVNC)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,-0.94,-5.09,-0.18,-0.66
+Green Thumb Industries Inc. (CNSX:GTII),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,41.61,0,0.1,3.29
+AdaptHealth Corp. (NasdaqCM:AHCO),Small_Cap,Health_Care_Equipment_and_Services,Health Care Distributors,Healthcare,1.01,0,0.04,0.49
+Vericel Corporation (NasdaqGM:VCEL),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,192.05,-0.06,0.06,-0.54
+"Iovance Biotherapeutics, Inc. (NasdaqGM:IOVA)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-2.27,0
+"Rhythm Pharmaceuticals, Inc. (NasdaqGM:RYTM)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-14.29,-1.25,0
+"Catalyst Pharmaceuticals, Inc. (NasdaqCM:CPRX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,0.93,0.34,0.24,0
+"Agios Pharmaceuticals, Inc. (NasdaqGS:AGIO)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-10.15,-13.31,-0.3,0
+"TG Therapeutics, Inc. (NasdaqCM:TGTX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-0.35,-48.91,-2.49,-0.09
+"Phreesia, Inc. (NYSE:PHR)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,-52.81,-0.53,-0.51,-0.13
+Veradigm Inc. (NasdaqGS:MDRX),Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,-18.53,-0.03,-0.02,1.48
+"Myriad Genetics, Inc. (NasdaqGS:MYGN)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-70.43,-0.2,-0.02,-0.38
+"Arvinas, Inc. (NasdaqGS:ARVN)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,-8.09,-5.33,-0.01,-0.01
+"Ironwood Pharmaceuticals, Inc. (NasdaqGS:IRWD)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,6.59,-0.13,0.22,0.25
+"Hims & Hers Health, Inc. (NYSE:HIMS)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,-6.12,-0.53,-0.72,-0.02
+Addus HomeCare Corporation (NasdaqGS:ADUS),Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,17.6,0.05,0.04,-0.09
+"BioCryst Pharmaceuticals, Inc. (NasdaqGS:BCRX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-18.69,-1.48,-0.06,-7.02
+"Xencor, Inc. (NasdaqGM:XNCR)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-17.04,-0.25,-0.05,0
+"Viking Therapeutics, Inc. (NasdaqCM:VKTX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-1.5,0.02
+"Celldex Therapeutics, Inc. (NasdaqCM:CLDX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-44.94,-19.23,-0.28,0
+"OPKO Health, Inc. (NasdaqGS:OPK)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,-18.72,-0.15,-2.48,-0.37
+"Syndax Pharmaceuticals, Inc. (NasdaqGS:SNDX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-4.16,-0.2,-0.01
+"UFP Technologies, Inc. (NasdaqCM:UFPT)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,45.64,0.1,0.02,0.12
+"CymaBay Therapeutics, Inc. (NasdaqGS:CBAY)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,-16.18,-24.55,-0.96,-0.16
+Geron Corporation (NasdaqGS:GERN),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-29.21,-124.24,-4.39,-0.13
+"Rocket Pharmaceuticals, Inc. (NasdaqGM:RCKT)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-0.68,0
+MannKind Corporation (NasdaqGM:MNKD),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-94.03,-1,-0.04,-12.6
+"LeMaitre Vascular, Inc. (NasdaqGM:LMAT)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,38.53,0.16,0.09,0.02
+"Relay Therapeutics, Inc. (NasdaqGM:RLAY)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-58.37,-0.08,0
+Summit Therapeutics Inc. (NasdaqGM:SMMT),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-2237.52,-10.09,-0.29,-4.39
+"Owens & Minor, Inc. (NYSE:OMI)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Distributors,Healthcare,2.81,0,0.02,0.55
+"Day One Biopharmaceuticals, Inc. (NasdaqGS:DAWN)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-8.95,-0.18
+"Replimune Group, Inc. (NasdaqGS:REPL)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.95,-0.23,-0.05
+"ANI Pharmaceuticals, Inc. (NasdaqGM:ANIP)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,25.89,-0.07,0.02,0.31
+"NextGen Healthcare, Inc. (NasdaqGS:NXGN)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,9.68,0.01,0.15,0.6
+"Sage Therapeutics, Inc. (NasdaqGM:SAGE)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-18.19,-1.71,-0.03,0
+"Pediatrix Medical Group, Inc. (NYSE:MD)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,-19.61,0.04,-0.01,4.99
+iCoreConnect Inc. (NasdaqCM:ICCT),Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,-7.37,-0.33,-3.09,-0.71
+"Protagonist Therapeutics, Inc. (NasdaqGM:PTGX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-4.77,-1,-0.01
+"Deciphera Pharmaceuticals, Inc. (NasdaqGS:DCPH)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-3.41,-0.46,0
+Twist Bioscience Corporation (NasdaqGS:TWST),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-2.47,-2.94,-0.55,0.01
+Ligand Pharmaceuticals Incorporated (NasdaqGM:LGND),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,63.77,0.68,0,-3.45
+"Kymera Therapeutics, Inc. (NasdaqGM:KYMR)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-9.74,-0.03,0.04
+National HealthCare Corporation (NYSEAM:NHC),Small_Cap,Health_Care_Equipment_and_Services,Health Care Facilities,Healthcare,24.33,0.06,0.01,-0.53
+National Research Corporation (NasdaqGS:NRC),Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,27.83,0.23,0.7,0.07
+"Mirum Pharmaceuticals, Inc. (NasdaqGM:MIRM)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-16.18,-8.7,-0.04,-1.15
+"Fulgent Genetics, Inc. (NasdaqGM:FLGT)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,1.4,0.34,0.02,0
+"Avanos Medical, Inc. (NYSE:AVNS)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Supplies,Healthcare,-8.51,0,-0.03,0.7
+"Accolade, Inc. (NasdaqGS:ACCD)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,-13.66,-0.51,-0.1,-0.36
+"Travere Therapeutics, Inc. (NasdaqGM:TVTX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-27.64,-1.01,-0.02,-3.77
+"Crinetics Pharmaceuticals, Inc. (NasdaqGS:CRNX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-17.58,-48.07,-0.85,0
+Quanterix Corporation (NasdaqGM:QTRX),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,-12.07,-0.68,-0.3,0.04
+"Simulations Plus, Inc. (NasdaqGS:SLP)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Technology,Healthcare,39.36,0.23,0.41,0
+"Cross Country Healthcare, Inc. (NasdaqGS:CCRN)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Services,Healthcare,11.1,0.04,0.05,-0.6
+Adaptive Biotechnologies Corporation (NasdaqGS:ADPT),Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Life Sciences Tools and Services,Healthcare,-8.34,-1.06,-0.19,0
+"ADMA Biologics, Inc. (NasdaqGM:ADMA)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-3.16,-1.38,-0.93,-0.23
+"SI-BONE, Inc. (NasdaqGM:SIBN)",Small_Cap,Health_Care_Equipment_and_Services,Health Care Equipment,Healthcare,-13.63,-0.64,-0.62,0.02
+"Innoviva, Inc. (NasdaqGS:INVA)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Pharmaceuticals,Healthcare,3.97,0.63,0.09,-0.18
+"MiMedx Group, Inc. (NasdaqCM:MDXG)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-185.29,-0.12,-0.12,-1.68
+"Ardelyx, Inc. (NasdaqGM:ARDX)",Small_Cap,Pharmaceuticals_Biotechnology_and_Life_Sciences,Biotechnology,Healthcare,-1.43,-7.18,-1.89,-0.15
